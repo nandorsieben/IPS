@@ -8,13 +8,13 @@ basic: basic example (Example 4.4)
 
 === File types:
 M.txt: matrix
-graph.pdf: graph whose adjacency matrix is M
 output.txt: coloring vectors of M-invariant polydiagonal subspaces
 
 === File types created by post-processing.  (The post-processing software is not available.)
 poset.pdf: lattice of M-invariant polydiagonal subspaces
 posetOrbit.pdf: poset of orbit classes of M-invariant polydiagonal subspaces
 summary.txt: summary of the information computed in post-processing in human-readable form
+graph.pdf: graph whose adjacency matrix is M
 
 === Details of summary.txt file:
 The first line of the summary.txt file labels the columns
