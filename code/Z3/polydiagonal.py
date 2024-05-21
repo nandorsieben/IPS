@@ -1,6 +1,5 @@
 # Finds coloring vectors of polydiagonal subspaces invariant under the matrix Mat
 from z3 import *
-from read_matrix import read_matrix
 
 def max(l):
   if len(l)==0:
@@ -10,7 +9,7 @@ def max(l):
     m=If(a>m,a,m)
   return m
 
-Mat=read_matrix('M.txt')
+Mat=[[int(x) for x in line.strip().split()] for line in open('M.txt')]
 n=len(Mat)
 
 # coloring vector
