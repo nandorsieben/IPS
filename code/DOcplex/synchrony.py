@@ -1,8 +1,7 @@
 # Finds coloring vectors of synchrony subspaces invariant under the matrix Mat
 from docplex.cp.model import CpoModel
-from read_matrix import read_matrix
 
-Mat=read_matrix('M.txt')
+Mat=[[int(x) for x in line.strip().split()] for line in open('M.txt')]
 n=len(Mat)
 mdl=CpoModel(name='synchrony')
 
