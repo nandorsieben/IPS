@@ -1,6 +1,5 @@
 # Finds coloring vectors of polydiagonal subspaces invariant under the matrix Mat
 from ortools.sat.python import cp_model
-from read_matrix import read_matrix
 
 class VarArraySolutionPrinter(cp_model.CpSolverSolutionCallback):
     def __init__(self, variables):
@@ -21,7 +20,7 @@ def reiff(model,expr,not_expr):
     model.Add(not_expr).OnlyEnforceIf(b.Not())
     return b
 
-Mat=read_matrix('M.txt')
+Mat=[[int(x) for x in line.strip().split()] for line in open('M.txt')]
 n=len(Mat)
 
 model=cp_model.CpModel()
