@@ -6,6 +6,6 @@ pip3 install ortools
 
 
 Usage:
-python3 polydiagonal.py
-python3 synchrony.py
+python3 polydiagonalOR.py
+python3 synchronyOR.py
 The code reads a matrix from the file M.txt and prints the coloring vectors to standard output.
