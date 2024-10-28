@@ -9,6 +9,6 @@ It is part of the IBM ILOG Cplex optimization software. It has a free academic l
 
 
 Usage:
-python3 polydiagonal.py
-python3 synchrony.py
+python3 polydiagonalCP.py
+python3 synchronyCP.py
 The code reads a matrix from the file M.txt and prints the coloring vectors to standard output.
