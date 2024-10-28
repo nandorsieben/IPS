@@ -6,6 +6,6 @@ pip3 install z3-solver
 
 
 Usage:
-python3 polydiagonal.py
-python3 synchrony.py
+python3 polydiagonalZ3.py
+python3 synchronyZ3.py
 The code reads a matrix from the file M.txt and prints the coloring vectors to standard output.
