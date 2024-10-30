@@ -22,5 +22,4 @@ ORtools:
 Z3: 
 - Uses Microsoft's Z3 Theorem Prover.
 - Simple syntax.
-- Fairly slow. Use for for very simple problems.
-  
+- Fairly slow. Use it for simple problems.
