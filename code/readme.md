@@ -7,8 +7,8 @@ CPMpy:
 - Not as fast as ORtools.
 
 DOcplex: 
-- Uses IBM's CP Oprimizer.
-- Requires separate installation of the CP Optimizer (free academc licnce).
+- Uses the CP Optimizer of IBM.
+- Requires separate installation of the CP Optimizer (free academc licence).
 - Simple syntax.
 - Expect very fast solving time for simpler problems.
 - Cannot handle some larger problems.
