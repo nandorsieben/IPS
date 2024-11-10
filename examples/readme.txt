@@ -10,7 +10,7 @@ basic: basic example (Example 4.4)
 M.txt: matrix
 output.txt: coloring vectors of M-invariant polydiagonal subspaces
 
-=== File types created by post-processing:  (The post-processing software is not available.)
+=== File types created by post-processing:  (The post-processing software is not available in this repository.)
 poset.pdf: lattice of M-invariant polydiagonal subspaces
 posetOrbit.pdf: poset of orbit classes of M-invariant polydiagonal subspaces
 summary.txt: summary of the information computed in post-processing in human-readable form
