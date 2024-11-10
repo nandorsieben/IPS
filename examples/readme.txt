@@ -1,10 +1,10 @@
 === Example names: 
-Buckyball: Adjacency matrix of the Buckyball graph (Example 6.3)
-BuckyballQuotient: Adjacency matrix of a quotient digraph of the Buckyball graph (Example 6.3)
-Cycle50: Laplacian of the cycle graph with 50 vertices (Table 5.1)
-Path100: Laplacian of the path graph with 100 vertices (Example 6.2)
-Petersen: Adjacency matrix of the Petersen graph (Example 6.1)
-basic: basic example (Example 4.4)
+Buckyball: Adjacency matrix of the Buckyball graph (Example 7.3)
+BuckyballQuotient: Adjacency matrix of a quotient digraph of the Buckyball graph (Example 7.3)
+Cycle50: Laplacian of the cycle graph with 50 vertices (Table 6.1)
+Path100: Laplacian of the path graph with 100 vertices (Example 7.2)
+Petersen: Adjacency matrix of the Petersen graph (Example 7.1)
+basic: basic example (Example 4.5)
 
 === File types:
 M.txt: matrix
