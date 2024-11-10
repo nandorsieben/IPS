@@ -24,3 +24,6 @@ The third column indicates the dimension of the polydiagonal subspaces in this c
 The fourth column indicates the size of the point stabilizer of the polydiagonal subspaces in this class.
 The fifth column indicates how many polydiagonal subspaces are in this class.
 Then the numbers of the polydiagonal subspaces (listed in output.txt) are listed.
+
+=== Requests
+Feel free to email to request the analysis of your favorite matrix.
