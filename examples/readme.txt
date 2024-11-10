@@ -10,7 +10,7 @@ basic: basic example (Example 4.4)
 M.txt: matrix
 output.txt: coloring vectors of M-invariant polydiagonal subspaces
 
-=== File types created by post-processing.  (The post-processing software is not available.)
+=== File types created by post-processing:  (The post-processing software is not available.)
 poset.pdf: lattice of M-invariant polydiagonal subspaces
 posetOrbit.pdf: poset of orbit classes of M-invariant polydiagonal subspaces
 summary.txt: summary of the information computed in post-processing in human-readable form
@@ -25,5 +25,5 @@ The fourth column indicates the size of the point stabilizer of the polydiagonal
 The fifth column indicates how many polydiagonal subspaces are in this class.
 Then the numbers of the polydiagonal subspaces (listed in output.txt) are listed.
 
-=== Requests
+=== Requests:
 Feel free to email to request the analysis of your favorite matrix.
